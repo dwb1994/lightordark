@@ -1,0 +1,14 @@
+{
+  "name": "lightordark",
+  "version": "0.0.2",
+  "description": "Determine if a color is light or dark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wenbo.dong",
+  "license": "MIT",
+  "dependencies": {
+    "tinycolor2": "^1.4.1"
+  }
+}
