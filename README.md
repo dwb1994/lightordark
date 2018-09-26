@@ -47,3 +47,11 @@ lightordark.mixColor('#666', '#fff'); // #666666
 lightordark.contrast('#888'); // dark
 lightordark.contrast('#888', 7); // light
 ```
+
+## 链接与参考资料
+
+- [博客地址](http://dwbbb.com/blog/improve-web-legibility/)
+---
+- [Android accessibility 帮助 - 色彩对比度](https://support.google.com/accessibility/android/answer/7158390?hl=zh-Hans)
+- [Human Interface Guidelines - iOS - Accessibility](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/accessibility/)
+- [Material Design - Text legibility](https://material.io/design/color/text-legibility.html#)
